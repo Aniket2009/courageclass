@@ -1,0 +1,107 @@
+button
+{
+    width:300px;
+    height:50px;
+    font-size:20px;
+}
+body{
+    background-image: linear-gradient(to right, lawngreen , yellow );
+   
+}
+h1{
+    font-size:40px;
+    text-shadow:green 3px 3px 3px;
+}
+#principal{
+    width:300px;
+    height:300px;
+    border-radius: 100px;
+}
+#heading{
+    font-style:normal;
+    font-weight: bold;
+    text-shadow: green 2px 2px 2px;
+}
+#heading2{
+    text-shadow: red   3px 3px 3px;
+}
+
+#picnic1{
+    width:300px;
+    height:400px;
+    border-style: solid;
+}
+#picnic3{
+    width:300px;
+    height:400px;
+    border-style: solid;
+}
+#picnic2{
+    width:605px;
+    height:suto;
+    border-style:solid;
+}
+#picnic4{
+    margin-top:4px;
+    width:300px;
+    height:400px;
+    border-style: solid;
+}
+#picnic5{
+    margin-top:4px;
+    width:300px;
+    height:400px;
+    border-style: solid;
+}
+#picnic6{
+    width:605px;
+    height:suto;
+    border-style:solid;
+}
+#picnic7{
+    margin-top:4px;
+    width:300px;
+    height:400px;
+    border-style: solid;
+}
+#picnic9{
+    width:605px;
+    height:suto;
+    border-style:solid;
+}
+#picnic8{
+    width:605px;
+    height:suto;
+    border-style:solid;
+    margin-top:5px;
+}
+#awards1{
+    margin-top:4px;
+    width:300px;
+    height:350px;
+    border-style: solid;
+}
+#awards2{
+    margin-top:4px;
+    width:300px;
+    height:350px;
+    border-style: solid;
+}
+#bday1{
+    width:605px;
+    height:suto;
+    border-style:solid;
+    margin-top:5px;
+}
+#bday2{
+    width:605px;
+    height:suto;
+    border-style:solid;
+    margin-top:5px;
+}
+#bday3{
+    width:605px;
+    height:suto;
+    border-style:solid;
+    margin-top:5px;
+}
